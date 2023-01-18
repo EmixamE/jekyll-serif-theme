@@ -1,6 +1,7 @@
 [
   {
-    "description": "advice, setting up start, guidance",
+    "title": "Create",
+    "description": "We adapt and create your new strategy based on your brand",
     "image": {
       "url": "images/features/noun_The Process_1885341.svg",
       "width": 80,
@@ -8,7 +9,8 @@
     }
   },
   {
-    "description": "Creating managing, in hands, more free time",
+    "title": "Managing",
+    "description": "We create and manage your ads to ensure their power",
     "image": {
       "url": "images/features/noun_branding_1885335.svg",
       "width": 80,
@@ -16,7 +18,8 @@
     }
   },
   {
-    "description": "recolt data, analyze, exchange, adapt, calibrate",
+    "title": "Optimizing",
+    "description": "We recolt, read and analyze the quality of your ads to optimize their reach",
     "image": {
       "url": "images/features/noun_3d modeling_1885342.svg",
       "width": 80,

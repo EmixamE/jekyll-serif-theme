@@ -33,6 +33,7 @@ bodyClass: "page-home"
       </div>
       <div class="col-12 col-md-6 col-lg-8 mb-2">
         <p class="home-text">{{site.data.home.text}}</p>
+        <p class="home-text">{{site.data.home.text_bis}}</p>
       </div>
     </div>
   </div>
@@ -90,7 +91,7 @@ bodyClass: "page-home"
 {% endif %}
 
 
-<div class="strip">
+<div class="strip end">
   <div class="row justify-content-center">
     <h1 class="header-book-call"> Book a call with us</h1>
   </div>
@@ -116,7 +117,18 @@ bodyClass: "page-home"
       </div> -->
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
           <div class="feature-content">
-            <p class="home-text">{{site.data.home.speech}}</p>
+            <div class="avatar-container">
+            <img  class="avatar" src="{{ page.avatar }}"/>
+            <p class="avatar-speech"> {{site.data.home.speech_intro}}</p>
+            </div>
+            <p class="home-spee ch">{{site.data.home.speech}}</p>
+            <div class="calendly-button">
+              <!-- Début de widget de lien Calendly -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a class="button" href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/maxime-moricarus/discovery-call'});return false;">Let&#39;s have a chat !</a>
+<!-- Fin de widget de lien Calendly -->
+            </div>
           </div>
         <img alt="{{ page.call }}"
           class="outro-image{% if page.intro_image_absolute %} outro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} outro-image-hide-mobile{% endif %}"

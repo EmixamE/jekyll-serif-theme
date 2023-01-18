@@ -8,6 +8,7 @@ intro_image_hide_on_mobile: true
 show_call_box: false
 outro_image: "images/illustrations/video-conference.svg"
 challenge_image: "images/illustrations/success.svg"
+avatar: "images/avatar.jpg"
 ---
 
 # Looking for more sales ?

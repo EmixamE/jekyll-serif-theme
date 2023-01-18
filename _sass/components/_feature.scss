@@ -20,8 +20,7 @@
     width: 100%;
     height: auto;
   }
-  .feature-title {
-  }
+  
   .feature-content {
     margin-bottom: 0;
     margin-top: auto;
@@ -35,4 +34,17 @@
   align-items: center;
   flex-direction: column;
   text-align: center;
+  display: none;
+  @include media-breakpoint-up(md) {
+    display: block;
+  }
 }
+
+.calendly-button {
+  display: block;
+  padding-bottom: 50px;
+  @include media-breakpoint-up(md) {
+    display: none;
+  }
+}
+
