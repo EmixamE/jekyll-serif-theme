@@ -1,7 +1,8 @@
 ---
 title: Moricarus
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+meta_title: The jewel of social advertising.
+description: Moricarus helps ecomm, jewellery, crafman brand to scale their business through social advertising
 intro_image: "images/illustrations/digital-ads-performance.svg"
 intro_image_absolute: false 
 intro_image_hide_on_mobile: true

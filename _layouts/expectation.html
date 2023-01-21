@@ -1,0 +1,68 @@
+---
+layout: default
+bodyClass: "page-home"
+---
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 col-lg-5 mb-2">
+        <img alt="{{ page.challenge_image }}"
+          class="outro-image{% if page.intro_image_absolute %} outro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} outro-image-hide-mobile{% endif %}"
+          src="{{ page.question_image | relURL }}" />
+      </div>
+      <div class="col-12 col-md-6 col-lg-7 mb-2">
+        <h1>
+          {{page.question_title}}
+        </h1>
+        <p class="home-text">{{page.question_text}}</p>
+        <p class="home-text">{{page.question_reason}}</p>
+        <p class="home-text">{{page.question_end}}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 col-lg-7 mb-2">
+        <h1>
+          {{page.reason_title}}
+        </h1>
+        <p class="home-text">{{page.reason_text}}</p>
+        <p class="home-text">{{page.reason_reason}}</p>
+        <p class="home-text">{{page.reason_end}}</p>
+      </div>
+      <div class="col-12 col-md-6 col-lg-5 mb-2">
+        <img alt="{{ page.challenge_image }}"
+          class="outro-image{% if page.intro_image_absolute %} outro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} outro-image-hide-mobile{% endif %}"
+          src="{{ page.reason_image | relURL }}" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-6 col-lg-5 mb-2">
+        <img alt="{{ page.challenge_image }}"
+          class="outro-image{% if page.intro_image_absolute %} outro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} outro-image-hide-mobile{% endif %}"
+          src="{{ page.untouch_image | relURL }}" />
+      </div>
+      <div class="col-12 col-md-6 col-lg-7 mb-2">
+        <h1>
+          {{page.untouch_title}}
+        </h1>
+        <p class="home-text">{{page.untouch_text}}</p>
+        <p class="home-text">{{page.untouch_reason}}</p>
+        <p class="home-text">{{page.untouch_end}}</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+      <div class="call-box-onboard">
+        <a href="/questions" class="button">OUR QUESTIONS FOR YOU 3/4</a>
+      </div>
