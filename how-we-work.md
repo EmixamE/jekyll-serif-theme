@@ -9,16 +9,16 @@ social_media_text: "We only use one way of communication, <b> agenciflow.</b> On
 
 social_media_reason: "This allow to have our communication in only one place, but also for us to be as quick as we can to answer your demands."
 
-social_media_end: "We will also give set up a <b>weekly loo</b> for you, and a <b>weekly, or bi-weekly</b> call with you to make sure every one is in the loop ! (You should have receive your invitation by now)"
+social_media_end: "We will also set up a <b>weekly loom</b> for you, and a <b>weekly, or bi-weekly</b> call with you. (You should have receive your invitation by now)"
 
 reporting_image: "/images/illustrations/charts-pie-and-bars.svg"
 
 reporting_title: "Reporting with us"
 reporting_text: "You will soon be given your own personal reporting with us. This allow you to track in (almost) real time how your ads are doing the <b>easiest way possible.</b>"
 
-reporting_reason: "We don't want to waste your time by setting up meeting and to show you reports, while you can get them in a instant. We're using a reporting tool only to make your life easier, but also for <b>more transparency</b>."
+reporting_reason: "We don't want to waste your time by setting up meetings just to show you reports, while you can get them in a instant. We're using a reporting tool only to make your life easier, but also for <b>more transparency</b>."
 
-reporting_end: "At the end of this onboarding, you will setup a kick-off meeting with us, and we will give you a link and explain you how it's work then, don't worry !"
+reporting_end: ""
 
 approval_title: "You'll always be in the loop"
 

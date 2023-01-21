@@ -16,7 +16,7 @@ reason_image: "/images/illustrations/overworked-employee.svg"
 
 reason_title: "Respect is key"
 
-reason_text: "For us, it is important that our partnership is in a good and respectful place. We relly want to <b>create an amazing dynamic between us.</b>"
+reason_text: "For us, it is important that our partnership is in a good and respectful place. We really want to <b>create an amazing dynamic between us.</b>"
 
 reason_reason: "We understand how it's like to delegate and expecting results. And trust us, <b>we will deliver</b>. But we want to do it in the most healthy way for our partnership."
 
@@ -26,9 +26,9 @@ untouch_title: "Don't touch what's working"
 
 untouch_image: "/images/illustrations/marketing-target.svg"
 
-untouch_text: "The golden rule we can all follow is <b>to not touch what's alreay working</b>. It sounds perhaps counter-intuitive to say such things, but believe us, we should not retouch it."
+untouch_text: "The golden rule we can all follow is <b>to not touch what's already working</b>. It sounds perhaps counter-intuitive to say such things, but believe us, we should not retouch it."
 
-untouch_reason: "It is always tempting to improving things, especially when we have something working with good result. But success in one ad also means that we should let it alone, and <b>focus on something else.</b>"
+untouch_reason: "It is always tempting to improving things, especially when we have something working with good results. But success in one ad also means that we should let it alone, and <b>focus on something else.</b>"
 
 untouch_end: ""
 ---
