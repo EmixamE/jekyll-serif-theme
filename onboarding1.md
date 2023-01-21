@@ -8,10 +8,10 @@ intro_image_hide_on_mobile: true
 
 # Welcome onboard !
 
-We are very pleased to have you on board, with us. Let's get the best out of our partnershipt by setting good and healthy bases.
+We are very pleased to start collaborating with you. We have created a small onboarding for you, in order to get started.
 
-<b>No worries</b>, we will guide you through the entire process, and it will be <b>effortless</b> for you.
+<b>No worries</b>, it will be <b>effortless</b> for you. It's to setup the bases of our partnership, and get to get us ready as soon as possible. 
 
-We want this process to be as <b>efficient</b> as possible and <b>without the fuss</b> that usually comes around in traditional agencies.
+We want this process to be as <b>efficient</b> as possible and <b>without the fuss</b> that usually comes around with traditional agencies.
 
-This process shouldn't take you more that 30min. 
+This process shouldn't take you more that 15min. 
